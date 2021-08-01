@@ -8,5 +8,10 @@ Our aims are to:
 - Make available this engine to more operating systems. To date, we have ports on Linux and macOS.
 
 # Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
+[Example](#example)
+[Example2](#example2)
+|Table of contents   |   
+|---|
+|[Example](#example)   |
+|[Example2](#example2)   |
+|   |
